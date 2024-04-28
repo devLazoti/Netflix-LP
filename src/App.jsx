@@ -1,7 +1,8 @@
 import React from 'react'
+import { Header } from './sections/header/Header'
 
 export const App = () => {
   return (
-    <div>Hello World!</div>
+    <Header />
   )
 }

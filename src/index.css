@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+:root {
+    --color-primary: #e50914;
+    --color-secondary: #C11119;
+    --color-black: #000000;
+    --color-white: #FFFFFF;
+}
